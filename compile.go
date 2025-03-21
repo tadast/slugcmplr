@@ -6,8 +6,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/cga1123/slugcmplr/buildpack"
-	"github.com/cga1123/slugcmplr/processfile"
+	"github.com/tadast/slugcmplr/buildpack"
+	"github.com/tadast/slugcmplr/processfile"
 )
 
 // CompileCmd wraps up all the information required to compile the contents of

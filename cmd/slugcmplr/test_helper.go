@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/bgentry/go-netrc/netrc"
-	"github.com/cga1123/slugcmplr"
+	"github.com/tadast/slugcmplr"
 	git "github.com/go-git/go-git/v5"
 	heroku "github.com/heroku/heroku-go/v5"
 )

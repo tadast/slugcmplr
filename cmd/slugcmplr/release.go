@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/cga1123/slugcmplr"
+	"github.com/tadast/slugcmplr"
 	"github.com/spf13/cobra"
 )
 

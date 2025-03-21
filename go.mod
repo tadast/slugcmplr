@@ -1,4 +1,4 @@
-module github.com/cga1123/slugcmplr
+module github.com/tadast/slugcmplr
 
 go 1.17
 

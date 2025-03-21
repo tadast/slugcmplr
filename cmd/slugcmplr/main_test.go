@@ -9,8 +9,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/cga1123/slugcmplr"
-	"github.com/cga1123/slugcmplr/buildpack"
+	"github.com/tadast/slugcmplr"
+	"github.com/tadast/slugcmplr/buildpack"
 	heroku "github.com/heroku/heroku-go/v5"
 )
 

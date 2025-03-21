@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/cga1123/slugcmplr/processfile"
+	"github.com/tadast/slugcmplr/processfile"
 )
 
 func Contain(t *testing.T, expected, actual []string) {

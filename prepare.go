@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/cga1123/slugcmplr/buildpack"
-	"github.com/cga1123/slugcmplr/slugignore"
+	"github.com/tadast/slugcmplr/buildpack"
+	"github.com/tadast/slugcmplr/slugignore"
 	"github.com/otiai10/copy"
 )
 
